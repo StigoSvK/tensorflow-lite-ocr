@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tensorflow lite OCR</string>
+    <string name="btnTakePicture">Scan</string>
+    <string name="btnRecognize">Recognize</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="resultLabel">Result</string>
+    <string name="btnCancel">Cancel</string>
+
+    <!-- Dialog -->
+    <string name="resultDialogTitle">Not parsed response</string>
+    <string name="errorDialogTitle">Error</string>
+
+    <!-- Setting Titles -->
+    <string name="general">General</string>
+
+    <!-- Setting Items -->
+    <string name="useCamera">Use camera</string>
+    <string name="useMobileNetDetectionModel">Use Mobile Net detection model</string>
+</resources>

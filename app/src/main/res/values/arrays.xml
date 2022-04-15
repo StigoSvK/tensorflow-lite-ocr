@@ -1,0 +1,62 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+
+    <string-array name="image_files_names">
+        <item>Test Gauge 0</item>
+        <item>Test Gauge 1</item>
+        <item>Test Gauge 2</item>
+        <item>Test Gauge 3</item>
+        <item>Test Gauge 4</item>
+        <item>Test Gauge 5</item>
+        <item>Test Gauge 6</item>
+        <item>Test Gauge 7</item>
+        <item>Test Gauge 8</item>
+        <item>Test Gauge 9</item>
+        <item>Raw Gauge 0</item>
+        <item>Raw Gauge 1</item>
+        <item>Raw Gauge 2</item>
+        <item>Raw Gauge 3</item>
+        <item>Raw Gauge 4</item>
+        <item>Raw Gauge 5</item>
+        <item>Raw Gauge 6</item>
+        <item>Raw Gauge 7</item>
+        <item>Raw Gauge 8</item>
+        <item>Raw Gauge 9</item>
+        <item>TF test image</item>
+        <item>Android test image</item>
+    </string-array>
+
+    <string-array name="image_files_values">
+        <item>test_g0</item>
+        <item>test_g1</item>
+        <item>test_g2</item>
+        <item>test_g3</item>
+        <item>test_g4</item>
+        <item>test_g5</item>
+        <item>test_g6</item>
+        <item>test_g7</item>
+        <item>test_g8</item>
+        <item>test_g9</item>
+        <item>raw_g0</item>
+        <item>raw_g1</item>
+        <item>raw_g2</item>
+        <item>raw_g3</item>
+        <item>raw_g4</item>
+        <item>raw_g5</item>
+        <item>raw_g6</item>
+        <item>raw_g7</item>
+        <item>raw_g8</item>
+        <item>raw_g9</item>
+        <item>tensorflow</item>
+        <item>android</item>
+    </string-array>
+</resources>

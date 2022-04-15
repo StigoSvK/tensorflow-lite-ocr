@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorSecondaryDark</item>
+    </style>
+
+    <style name="ButtonPrimary" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="backgroundTint">@color/colorSecondaryDark</item>
+        <item name="android:textColor">@color/colorTextLight</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="RecognitionResult">
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="RecognitionResultLabel">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>
